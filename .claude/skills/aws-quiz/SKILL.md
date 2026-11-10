@@ -42,7 +42,19 @@ Full report:
 
 ## Failed-questions bank
 
-File `practice-exam/failed-questions.md`. Structure:
+File `practice-exam/failed-questions.md` (personal, git-ignored — each user has their own). If missing, create it with this header before first use:
+
+```markdown
+# Failed Questions — Review Bank
+
+Wrong answers collected from practice exams. Retake periodically: cover the answer, answer all, check at end. Remove a question only after getting it right twice in a row.
+
+Format: `[exam] [date failed] [times failed]`
+
+---
+```
+
+Structure:
 
 ```markdown
 # Failed Questions — Review Bank
